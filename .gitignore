@@ -28,3 +28,4 @@ storybook-static
 
 .vitest
 .vitest-attachments
+/misc-info-issues/
